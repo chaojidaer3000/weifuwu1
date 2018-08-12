@@ -1,0 +1,8 @@
+server:
+  port: 8888
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: http://58.210.98.198:8888/BeyondBOMS/boms-parent/tree/master/boms-collect
