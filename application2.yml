@@ -6,3 +6,6 @@ spring:
       server:
         git:
           uri: https://git.oschina.net/it-much/{application}
+          uri: https://git.oschina.net/it-much/{application}
+          uri: https://git.oschina.net/it-much/{application}
+          uri: https://git.oschina.net/it-much/{application}
