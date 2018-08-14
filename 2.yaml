@@ -1,0 +1,15 @@
+name:
+    abcd
+profiles:
+    default 
+label:
+    dev
+version:
+    7ea15307291a3a44600dwe4770bdf91f44984b08b
+state:
+    null
+  propertySources:
+     name:
+         https://git.oschina.net/it-much/config-repo-51cto-video/application.yml
+    profile:
+         profile-default
