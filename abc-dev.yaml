@@ -12,4 +12,4 @@ propertySources:
          name:
              https://git.oschina.net/it-much/config-repo-51cto-video/application.yml
          profile:
-              profile-default
+              profile-dev
