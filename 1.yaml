@@ -1,6 +1,6 @@
 name:
     abc
-profiles:
+profile:
     dev 
 label:
     master
