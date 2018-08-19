@@ -1,7 +1,7 @@
 name:
     abc
 profiles:
-    default 
+    dev 
 label:
     master
 version:
